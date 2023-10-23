@@ -1,0 +1,6 @@
+[submodule "1_Data Engineerning/0810_python_library"]
+	path = 1_Data Engineerning/0810_python_library
+	url = https://github.com/P-uyoung/KT_AIVLE.git
+[submodule "1_Data Engineerning/0814_data_preparation"]
+	path = 1_Data Engineerning/0814_data_preparation
+	url = https://github.com/P-uyoung/KT_AIVLE.git
