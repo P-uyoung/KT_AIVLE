@@ -1,0 +1,3 @@
+[submodule "KT_Django"]
+	path = KT_Django
+	url = https://github.com/P-uyoung/KT_Django.git
